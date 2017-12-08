@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/ares/penghao/github/Indigo/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ares/penghao/github/Indigo/catkin_ws/install -G Unix Makefiles
